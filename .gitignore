@@ -1,0 +1,11 @@
+# Configuración local de IntelliJ
+.idea/
+*.iml
+
+# Archivos compilados
+target/
+out/
+*.class
+
+# Credenciales locales de base de datos
+config.properties
